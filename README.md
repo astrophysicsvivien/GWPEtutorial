@@ -1,6 +1,6 @@
 # GW Inference tutorial
 
-![QR code](GWPE_HERAEUS.png)
+![QR code](frame.png)
 
 Tutorial: Constructing the Posterior Density Function
 [![Open Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astrophysicsvivien/GWPEtutorial/blob/main/GWPE.ipynb)
